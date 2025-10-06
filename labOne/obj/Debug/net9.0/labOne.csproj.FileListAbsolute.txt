@@ -1,0 +1,14 @@
+/Users/liliakhaibullina/labOne/bin/Debug/net9.0/labOne
+/Users/liliakhaibullina/labOne/bin/Debug/net9.0/labOne.deps.json
+/Users/liliakhaibullina/labOne/bin/Debug/net9.0/labOne.runtimeconfig.json
+/Users/liliakhaibullina/labOne/bin/Debug/net9.0/labOne.dll
+/Users/liliakhaibullina/labOne/bin/Debug/net9.0/labOne.pdb
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/labOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/labOne.AssemblyInfoInputs.cache
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/labOne.AssemblyInfo.cs
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/labOne.csproj.CoreCompileInputs.cache
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/labOne.dll
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/refint/labOne.dll
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/labOne.pdb
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/labOne.genruntimeconfig.cache
+/Users/liliakhaibullina/labOne/obj/Debug/net9.0/ref/labOne.dll
